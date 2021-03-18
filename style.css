@@ -74,9 +74,14 @@ h6{
 }
 .navbar-nav li a 
 {
-    float:right;
-    text-align: left;
-
+    float:center;
+    text-align: center;
+    
+}
+#nav-bar ul li a:hover
+{
+color:black !important;
+background-color:#007bff ;
 }
 #nav-bar ul li a:hover
 {
